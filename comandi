@@ -1,0 +1,8 @@
+git init => inizializza la cartella di git
+git add . => aggiunge tutti i file a git
+git add (name) => aggiunge il file singolo a git
+git remote add (nome per repository) link => crea collegamento tra git e github
+git remote => visualizza le repository
+git push (nome repository) master => invia i file a github
+git push --set-upstream (nome repository) master => aggiunge informazioni aggiuntive
+git status => confronta tra i vari repository
